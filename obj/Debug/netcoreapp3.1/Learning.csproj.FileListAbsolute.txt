@@ -1,0 +1,14 @@
+D:\VS\Learning\bin\Debug\netcoreapp3.1\Learning.exe
+D:\VS\Learning\bin\Debug\netcoreapp3.1\Learning.deps.json
+D:\VS\Learning\bin\Debug\netcoreapp3.1\Learning.runtimeconfig.json
+D:\VS\Learning\bin\Debug\netcoreapp3.1\Learning.runtimeconfig.dev.json
+D:\VS\Learning\bin\Debug\netcoreapp3.1\Learning.dll
+D:\VS\Learning\bin\Debug\netcoreapp3.1\Learning.pdb
+D:\VS\Learning\obj\Debug\netcoreapp3.1\Learning.csproj.AssemblyReference.cache
+D:\VS\Learning\obj\Debug\netcoreapp3.1\Learning.AssemblyInfoInputs.cache
+D:\VS\Learning\obj\Debug\netcoreapp3.1\Learning.AssemblyInfo.cs
+D:\VS\Learning\obj\Debug\netcoreapp3.1\Learning.csproj.CoreCompileInputs.cache
+D:\VS\Learning\obj\Debug\netcoreapp3.1\Learning.dll
+D:\VS\Learning\obj\Debug\netcoreapp3.1\Learning.pdb
+D:\VS\Learning\obj\Debug\netcoreapp3.1\Learning.genruntimeconfig.cache
+D:\VS\Learning\obj\Debug\netcoreapp3.1\Learning.GeneratedMSBuildEditorConfig.editorconfig
